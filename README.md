@@ -39,8 +39,8 @@
 32. [Architectural Pattern](#architecturalpattern)
 33. [Code Quality and Style](#codequalityandstyle)
 34. [Error handling and Debugging](#errorhandlinganddebugging)
-35. [tsconfig.json]
-36. [decorators]
+35. [tsconfig.json](#typescript)
+36. [decorators](#decorators)
 
 # Static Typing
 # Type Inference
